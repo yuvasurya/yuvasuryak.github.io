@@ -97,7 +97,9 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **Autopsy Basics and Hands-on**
 - **CCNA Routing and Switching Basic Concepts**
 
-### Security Standards
+### Technical Skills
+
+#### Security Standards
 - **OWASP Top 10**
 - **CWE/SANS Top 25**
 - **MITRE Framework**
@@ -107,7 +109,7 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **GDPR**
 - **CIS Standards**
 
-### Pentesting Tools
+#### Pentesting Tools
 - **Nessus**
 - **Qualys**
 - **Acunetix**
@@ -136,7 +138,7 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **Frida**
 - **Objection**
 
-### Operating Systems
+#### Operating Systems
 - **Windows**
 - **Kali Linux**
 - **Parrot**
@@ -146,13 +148,13 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **REMnux**
 - **Mac OS**
 
-### Programming
+#### Programming
 - **Python**
 - **R**
 - **Bash**
 - **Shell Scripting**
 
-### Other Tools
+#### DevOps and Cloud Tools
 - **Jenkins**
 - **Ansible**
 - **Docker**
@@ -164,6 +166,19 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **Suricata**
 - **Kibana**
 
+### Soft Skills
+- **Leadership**
+- **Team Collaboration**
+- **Effective Communication**
+- **Problem Solving**
+- **Adaptability**
+- **Attention to Detail**
+- **Critical Thinking**
+- **Project Management**
+
+![Skills](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+---
 
 ## 🏆 Achievements
 
@@ -171,7 +186,7 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - Received commendations from leadership for exceptional results in resolving security concerns.
 - Selected for a coveted internship by the Government of Andhra Pradesh for outstanding skills demonstrated in a state-wide hackathon.
 
-![Achievements](https://media.giphy.com/media/l0He4fJxPCbfqv7Xi/giphy.gif)
+![Achievements](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
@@ -180,4 +195,4 @@ I'm Yuva Surya Konatham, an experienced Security Engineer with a Master’s degr
 - **Email**: [yuvasurya1998@gmail.com](mailto:yuvasurya1998@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yuvasuryak)
 
-![Contact](https://media.giphy.com/media/3o6ozpuzS1x6Pmc6FG/giphy.gif)
+![Contact](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
